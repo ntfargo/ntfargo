@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on [Linear Fox](https://linearfox.com) 
 - 📫 How to reach me **nathanfargo@gmail.com**
+- 📋 I love GitHub, my projects are mostly private & not open source. I only upload public codes if I have something to share.
 
 <p align="left">
 <a href="https://twitter.com/ntfargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ntfargo" height="30" width="40" /></a>
