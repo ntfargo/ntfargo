@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=ntfargo)
 
 - 🔭 I’m currently working on [Linear Fox](https://linearfox.com) 
-- 📫 How to reach me **nathanfargo@gmail.com**
+- 📫 How to reach me **ntfargo@proton.me**
 - 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.
 
 <p align="left">
