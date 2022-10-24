@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="150" style="width: 10rem" src="https://i.imgur.com/B6nONNA.gif"  />
+<img align="right" height="150" style="width: 10rem" src="https://cdn.linearfox.com/avatars/1/n82HEIUhioud.gif"  />
 
 ###
 
