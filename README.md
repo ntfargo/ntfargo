@@ -28,15 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-###
-
-<img align="right" height="150" style="width: 10rem" src="https://cdn.linearfox.com/avatars/1/n82HEIUhioud.gif"  />
-
-###
+### 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=ntfargo" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=codeSTACKr&hide_border=false&username=ntfargo" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=ntfargo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=codeSTACKr&hide_border=false&username=ntfargo" height="150" alt="languages graph"  />
 </div>
 
 ###
