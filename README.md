@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋, I'm Nathan Fargo</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Fargo)](https://git.io/typing-svg)
 ###
  
 <p align="left">- 🔭 I’m currently working on LinearFox<br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br>- 🎓I'm learning: C, and C++ "Only when I have some free time"</p>
