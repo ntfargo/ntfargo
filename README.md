@@ -3,9 +3,9 @@
  
  <img src="https://media.tenor.com/49WsTVwfBzgAAAAC/pikachu-pokemon.gif" align="right" style="width: 100%;"/>
  
-<p align="left">- 🔭 I’m currently working on LinearFox<br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br>- 🎓I'm learning: C, and C++ "Only when I have some free time"</p>
+<p align="left">- 🔭 I’m currently working on LinearFox<br><br>- 📫 How to reach me ntfargo@proton.me<br><br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br><br>- 🎓I'm learning: C, and C++ "Only when I have some free time" <br><br>- 🦊 About Current Project: Linear Fox is a company that specializes in technology and deployment, with a focus on advancing future technology and making it more accessible for developers. As a new project, we are always looking for new ways to improve our services and products</p>
  
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br />
  
 ###
 
