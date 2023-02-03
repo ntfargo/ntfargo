@@ -5,7 +5,7 @@
  
 <p align="left">- 🔭 I’m currently working on LinearFox<br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br>- 🎓I'm learning: C, and C++ "Only when I have some free time"</p>
  
-<br /><br />
+<br />
  
 ###
 
