@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Fargo)](https://git.io/typing-svg)
 ###
  
- <img src="https://media.tenor.com/49WsTVwfBzgAAAAC/pikachu-pokemon.gif" align="right" style="width: 100%;"/>
+ <img src="https://raw.githubusercontent.com/ntfargo/ntfargo/main/ntfargo.jpg" style="width: 100%;"/>
+ <br />
  
 <p align="left">- 🔭 I’m currently working on LinearFox<br><br>- 📫 How to reach me ntfargo@proton.me<br><br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br><br>- 🎓I'm learning: C, and C++ "Only when I have some free time" <br><br>- 🦊 About Current Project: Linear Fox is a company that specializes in technology and deployment, with a focus on advancing future technology and making it more accessible for developers. As a new project, we are always looking for new ways to improve our services and products</p>
  
