@@ -43,7 +43,7 @@
 
 
 
-### DevOps  
+### DevOps 
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -59,14 +59,12 @@
 <br/>  
 
 ### 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntfargo&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ntfargo" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ntfargo&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+</div> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=ntfargo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=codeSTACKr&hide_border=false&username=ntfargo" height="150" alt="languages graph"  />
-</div>
-
-###
-
+### 
 <br clear="both">
 <p align="center">
  <img src="https://raw.githubusercontent.com/ntfargo/ntfargo/output/snake.svg" alt="Snake animation" />
