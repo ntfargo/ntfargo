@@ -59,9 +59,9 @@
 <br/>  
 
 ### 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntfargo&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ntfargo" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ntfargo&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntfargo&show_icons=true&locale=en&card_width=150&theme=github_dark&hide_border=true" alt="ntfargo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ntfargo&theme=github-dark-blue&card_width=150&hide_border=true" alt="Github streak" />
 </div> 
 
 ### 
