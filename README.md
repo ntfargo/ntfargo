@@ -4,7 +4,7 @@
  <img src="https://raw.githubusercontent.com/ntfargo/ntfargo/main/ntfargo-black.jpg" style="width: 100%;"/>
  <br />
  
-<p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share. <br>- 🎓I'm learning: C, and C++ "Only when I have some free time" <br>- 👀 I’m interested in AI (Machine Learning, Computer Vision, Robotics), Space rockets <br>- ⌚ Hobby: Music composing via Reaper and FL Studio (Cinematic, Film score, Argent Metal) - Favorite V Guitar: Shreddage 3 Hydra <br> </p>
+<p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p>
  
 ### What I use:
 
