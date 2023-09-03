@@ -65,14 +65,4 @@
 
 <br/>  
 
-### 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntfargo&show_icons=true&locale=en&card_width=150&theme=github_dark&hide_border=true" alt="ntfargo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ntfargo&theme=github-dark-blue&card_width=150&hide_border=true" alt="Github streak" />
-</div> 
-
-### 
-<br clear="both">
-<p align="center">
- <img src="https://raw.githubusercontent.com/ntfargo/ntfargo/output/snake.svg" alt="Snake animation" />
-</p>
+![svg]( https://raw.githubusercontent.com/ntfargo/ntfargo/main/profile-3d-contrib/profile-night-view.svg)
