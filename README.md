@@ -4,7 +4,7 @@
  <table border="0">
  <tr>
     <td><img src="https://raw.githubusercontent.com/ntfargo/ntfargo/main/ntfargo-black.jpg" style="width: 100%;"/></td>
-    <td><img src="https://i.kym-cdn.com/photos/images/original/002/595/682/767.gif"/></td>
+    <td><img src="https://i.kym-cdn.com/photos/images/original/002/595/682/767.gif" width="250" height="230"/></td>
  </tr>
 </table>
  <br />
