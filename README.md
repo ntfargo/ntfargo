@@ -1,7 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Fargo)](https://git.io/typing-svg)
 ###
- 
- <img src="https://raw.githubusercontent.com/ntfargo/ntfargo/main/ntfargo-black.jpg" style="width: 100%;"/>
+  
+ <table border="0">
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/ntfargo/ntfargo/main/ntfargo-black.jpg" style="width: 100%;"/></td>
+    <td><img src="https://i.kym-cdn.com/photos/images/original/002/595/682/767.gif" width="250" height="230"/></td>
+ </tr>
+</table>
  <br />
  
 <p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p>
