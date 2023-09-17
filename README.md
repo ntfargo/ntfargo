@@ -9,11 +9,8 @@
 </table>
  <br />
  
-<p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p>
-<br>
+<p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p> 
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=ntfargo&amp;&amp;style=flat-square" alt="Profile views counter"></div>
- 
 ### What I use: (Experiences)
 
 <table><tr><td valign="top" width="33%">
