@@ -9,7 +9,7 @@
 </table>
  <br />
  
-<p align="left">- 🔭 I’m currently founder and working on Linear Fox<br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p> 
+<p align="left">- 🔭 I’m currently founder and working on Linear Fox <br>- 🦊 With Linear Fox, my primary objective is to support and collaborate with a diverse community of researchers and developers. <br>- 🎲 Owner of <a href="https://vaporeon.me">https://vaporeon.me</a><br>- 📫 How to reach me ntfargo@proton.me<br>- 📋 I love GitHub, my projects are mostly private and not open source. I only upload public codes if I have something to share.  <br> </p> 
 
 ### What I use: (Experiences)
 
