@@ -3,8 +3,7 @@
   
  <table border="0">
  <tr>
-    <td><img src="https://cdn.linearfox.com/assets/others/12341223.png" style="width: 100%;"/></td>
-    <td><img src="https://pbs.twimg.com/profile_images/1704370593787744256/GhbWFZtB_400x400.jpg" width="800" height="280"/></td>
+    <td><img src="https://cdn.linearfox.com/backgrounds/1/3123123.png" style="width: 100%;"/></td>
  </tr>
 </table>
  <br />
