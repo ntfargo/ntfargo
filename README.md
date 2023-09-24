@@ -4,7 +4,7 @@
  <table border="0">
  <tr>
     <td><img src="https://cdn.linearfox.com/assets/others/12341223.png" style="width: 100%;"/></td>
-    <td><img src="https://i.kym-cdn.com/photos/images/original/002/595/682/767.gif" width="250" height="230"/></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1704370593787744256/GhbWFZtB_400x400.jpg" width="650" height="280"/></td>
  </tr>
 </table>
  <br />
