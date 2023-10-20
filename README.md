@@ -3,7 +3,7 @@
   
  <table border="0">
  <tr>
-    <td><img src="https://cdn.linearfox.com/backgrounds/1/3123123.png" style="width: 100%;"/></td>
+    <td><img src="ntfargo-black.jpg" style="width: 100%;"/></td>
  </tr>
 </table>
  <br />
